@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+   background-color: aqua;
+
+}
+ nav ul{
+float: right;
+margin: 20px;
+}
+nav ul li{
+    display: inline-block;
+}
